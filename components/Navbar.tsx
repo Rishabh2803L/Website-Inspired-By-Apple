@@ -24,7 +24,7 @@ export default function Navbar() {
         >
             <div className="flex items-center gap-4">
                 <Link href="/" className="text-lg font-semibold tracking-tight text-white">
-                    AirPods Pro
+                    AirPods 3
                 </Link>
             </div>
 

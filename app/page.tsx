@@ -12,7 +12,7 @@ function PageContent() {
   const handleBuy = () => {
     addToCart({
       id: 'airpods-pro-2',
-      name: 'AirPods Pro (2nd Gen)',
+      name: 'AirPods (3rd Gen)',
       price: 249.00,
       image: '/airpods/ezgif-frame-001.jpg',
       quantity: 1
@@ -32,7 +32,7 @@ function PageContent() {
       {/* Section 1: Hero (0% - 15%) */}
       <TextOverlay start={0} end={0.15}>
         <h1 className="text-5xl md:text-8xl font-bold tracking-tighter text-white mb-4">
-          AirPods Pro
+          AirPods 3
         </h1>
         <p className="text-xl md:text-2xl font-medium text-white/60">
           Rebuilt from the sound up.

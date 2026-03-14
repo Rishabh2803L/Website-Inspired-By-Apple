@@ -14,7 +14,7 @@ export default function AudioPage() {
                     <section className="mb-24">
                         <h2 className="text-3xl font-semibold mb-6 text-blue-500">H2 Chip</h2>
                         <p className="text-xl text-white/70 max-w-3xl leading-relaxed">
-                            The Apple-designed H2 chip is the force behind AirPods Pro and its advanced audio performance. It works in concert with a custom-built driver and amplifier to deliver crisp, clear high notes and deep, rich bass in stunning definition—so every sound is more vivid than ever.
+                            The Apple-designed H2 chip is the force behind AirPods 3 and its advanced audio performance. It works in concert with a custom-built driver and amplifier to deliver crisp, clear high notes and deep, rich bass in stunning definition—so every sound is more vivid than ever.
                         </p>
                     </section>
 

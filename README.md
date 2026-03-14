@@ -1,14 +1,14 @@
-# AirPods Pro Landing Page - Scrollytelling Experience
+# AirPods 3 Landing Page - Scrollytelling Experience
 
-This is a premium, Apple-inspired landing page built for AirPods Pro, featuring a highly interactive scrollytelling experience.
+This is a premium, Apple-inspired landing page built for AirPods 3, featuring a highly interactive scrollytelling experience.
 
-![AirPods Pro Hero](assets/hero.png)
+![AirPods 3 Hero](assets/hero.png)
 
 ## Overview
 
 This project showcases a full-screen, high-performance scroll-linked animation sequence using the HTML5 `<canvas>`. As the user scrolls, a 240-frame image sequence plays, visually "exploding" and reassembling the AirPods to highlight different features.
 
-![AirPods Pro Explosion Effect](assets/exploded.png)
+![AirPods 3 Explosion Effect](assets/exploded.png)
 
 ## Features
 
